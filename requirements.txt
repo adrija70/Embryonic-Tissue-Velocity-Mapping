@@ -1,0 +1,6 @@
+NumPy>=2.4.6
+Pandas>=3.0.3
+Matplotlib>=3.11.0
+SciPy>=1.17.1
+scikit-image>=0.26.0
+scikit-learn>=1.9.0
